@@ -1,0 +1,5 @@
+"""Constants for Quinteca Dashboard."""
+DOMAIN = "quinteca"
+VERSION = "1.1.0"
+PANEL_PATH = "quinteca"
+STATIC_URL = "/quinteca_static"

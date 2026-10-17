@@ -1,0 +1,13 @@
+{
+  "domain": "quinteca",
+  "name": "Quinteca Dashboard",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": ["http", "frontend", "panel_custom"],
+  "documentation": "https://github.com/Moiz6649/quinteca-dashboard",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/Moiz6649/quinteca-dashboard/issues",
+  "requirements": [],
+  "version": "1.1.0"
+}

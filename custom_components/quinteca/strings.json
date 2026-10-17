@@ -1,0 +1,6 @@
+{
+  "config": {
+    "step": {"user": {"title": "Quinteca Dashboard", "description": "Adds the Quinteca dashboard to your sidebar.", "data": {"title": "Dashboard title"}}},
+    "abort": {"single_instance_allowed": "Quinteca is already configured."}
+  }
+}
